@@ -1,0 +1,11 @@
+[package]
+name = "csharp_iterator"
+version = "0.1.0"
+authors = ["OptimisticPeach <patrikbuhring@yahoo.com>"]
+edition = "2018"
+
+[lib]
+name = "cs_iter"
+crate-type = ["dylib"]
+
+[dependencies]

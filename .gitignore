@@ -1,0 +1,5 @@
+csharp_iterator/target
+csharp_iterator/Cargo.lock
+**/.vs
+**/bin
+**/obj
